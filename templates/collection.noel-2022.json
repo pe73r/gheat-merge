@@ -1,0 +1,284 @@
+{
+  "sections": {
+    "header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false
+      }
+    },
+    "29a30920-6e67-4608-98bf-39395fb35288": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--14514141364287__29a30920-6e67-4608-98bf-39395fb35288-16692259539a285fcc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banniere-collection-G-Heat-NOEL.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "top-middle"
+          }
+        },
+        "template--14514141364287__29a30920-6e67-4608-98bf-39395fb35288-16692259539a285fcc-1": {
+          "type": "html",
+          "settings": {
+            "code": "<h2>PAR ICI LES BONNES IDÉES DE NOËL<\/h2><p>A Noël, faites (vous) plaisir et offrez un cadeau qui fait chaud (et pas qu'au cœur). Et parce qu'une bonne nouvelle ne vient jamais seule, les échanges sont prolongés jusqu'au 5 janvier. \nLa deuxième bonne nouvelle ?\nEn plus de super produits, nous faisons de superbes boîtes : l'emballage est déjà tout trouvé ;) <\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14514141364287__29a30920-6e67-4608-98bf-39395fb35288-16692259539a285fcc-0",
+        "template--14514141364287__29a30920-6e67-4608-98bf-39395fb35288-16692259539a285fcc-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "main": {
+      "type": "collection-template-v2",
+      "disabled": true,
+      "blocks": {
+        "068c4fb0-907f-4045-9238-1eb28dcbd087": {
+          "type": "tags_group",
+          "settings": {
+            "title": "",
+            "tag_list": "meilleures ventes",
+            "collapsed": false
+          }
+        },
+        "7557c7f8-5b2d-4b3d-ab8d-88f3b756c2a0": {
+          "type": "productType",
+          "disabled": true,
+          "settings": {
+            "title": "TYPE DE PRODUIT",
+            "collapsed": false
+          }
+        },
+        "c94386d5-0974-4060-a684-2a98f3238b73": {
+          "type": "tags_group",
+          "settings": {
+            "title": "CATÉGORIES",
+            "tag_list": "Gants de moto\nGants d'équitation\nGants de vélo\ngants de ski\ngants polyvalents\nGants de chasse\nGants de travail\nSous gants\nmoufles\nManchons\nVestes à capuche\nSemelles\nchaussettes\nGenouillère\nVestes sans manches",
+            "collapsed": false
+          }
+        },
+        "1c8d4480-609a-4d77-9cf3-40a6f885b718": {
+          "type": "menu",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "menu": "main-menu",
+            "collapsed": true
+          }
+        },
+        "98f3e8ee-cd61-4313-93ba-022d2425570a": {
+          "type": "tags_group",
+          "settings": {
+            "title": "CARACTÉRISTIQUES",
+            "tag_list": "tactiles\nantidérapants\ndoigtier amovible\nrenfort paume\ncoupe-vent\nétanches\ndéperlants\ndoublure renforcée\ngrip paume\nlégers\nbandes réfléchissantes\nimperméables\nrespirants \nraclette essuie-glace\nnorme CE \ncertification 1KP\nprotection carbone\nleash amovibles\najustables",
+            "collapsed": true
+          }
+        },
+        "30d34c07-8199-47b6-9f46-cf7a409f86bb": {
+          "type": "tags_group",
+          "settings": {
+            "title": "GENRE",
+            "tag_list": "Femme\nHomme\nMixte",
+            "collapsed": true
+          }
+        },
+        "0f8eec2e-f902-40a1-a9fd-6a6dbdf395be": {
+          "type": "tags_group",
+          "settings": {
+            "title": "TAILLES",
+            "tag_list": "XS\nS\nM\nL\nXL\nXXL\nXXXL",
+            "collapsed": true
+          }
+        },
+        "404cc5a2-857e-4890-a655-251d927a288b": {
+          "type": "tags_group",
+          "settings": {
+            "title": "USAGES",
+            "tag_list": "Maladie de Raynaud\nThermothérapie\nSports & loisirs\nTravail",
+            "collapsed": true
+          }
+        },
+        "8f29f86c-3447-447b-a7f5-d621efb4db68": {
+          "type": "subcollections",
+          "settings": {
+            "enable_count": true,
+            "collapsed": false
+          }
+        }
+      },
+      "block_order": [
+        "068c4fb0-907f-4045-9238-1eb28dcbd087",
+        "7557c7f8-5b2d-4b3d-ab8d-88f3b756c2a0",
+        "c94386d5-0974-4060-a684-2a98f3238b73",
+        "1c8d4480-609a-4d77-9cf3-40a6f885b718",
+        "98f3e8ee-cd61-4313-93ba-022d2425570a",
+        "30d34c07-8199-47b6-9f46-cf7a409f86bb",
+        "0f8eec2e-f902-40a1-a9fd-6a6dbdf395be",
+        "404cc5a2-857e-4890-a655-251d927a288b",
+        "8f29f86c-3447-447b-a7f5-d621efb4db68"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "tags_combine": true,
+        "enable_sort": true,
+        "description_position": "top",
+        "subcollection_style": "below",
+        "grid_style": "small"
+      }
+    },
+    "recommendation": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "show_section": true,
+        "product_recommendations_heading": "VOUS AIMEREZ AUSSI"
+      }
+    },
+    "c07d8eb7-4901-48ce-8c52-f3f3210c6092": {
+      "type": "scroll-our-product",
+      "blocks": {
+        "1167def7-f305-4d59-9f36-328b674c372d": {
+          "type": "image",
+          "settings": {
+            "product-image": "shopify:\/\/shop_images\/Cadeaux-noel-frileux-g-heat.jpg",
+            "product-des": "LES FRILEUX",
+            "pro-link": "shopify:\/\/collections\/maladie-de-raynaud"
+          }
+        },
+        "33beda0d-3bce-43dd-b133-ab2a8016db65": {
+          "type": "image",
+          "settings": {
+            "product-image": "shopify:\/\/shop_images\/Cadeaux-noel-ski-g-heat_8e3c5ad0-6108-4884-a0fd-2c6f1a6fbc31.jpg",
+            "product-des": "LES AMATEURS DE POUDREUSE",
+            "pro-link": "shopify:\/\/collections\/ski"
+          }
+        },
+        "c8ceef1f-378c-4893-bbdb-2dfa1e78163c": {
+          "type": "image",
+          "settings": {
+            "product-image": "shopify:\/\/shop_images\/g-heat-Cadeaux-noel-cycliste.jpg",
+            "product-des": "LES COURAGEUX QUI SE DÉPLACENT À VÉLO, PIEDS...",
+            "pro-link": "shopify:\/\/collections\/mobilite-urbaine"
+          }
+        },
+        "ac015cc9-b863-4e24-935d-8c309a349f4b": {
+          "type": "image",
+          "settings": {
+            "product-image": "shopify:\/\/shop_images\/Cadeaux-noel-motard-g-heat_b5957f8b-af90-4173-b066-db4236060ce9.jpg",
+            "product-des": "LES MOTARDS",
+            "pro-link": "shopify:\/\/collections\/moto"
+          }
+        },
+        "c2b18dbc-2b2d-41c6-badb-775f3957c3d7": {
+          "type": "image",
+          "settings": {
+            "product-image": "shopify:\/\/shop_images\/g-heat-Cadeaux-noel-photographe.jpg",
+            "product-des": "LES AMOUREUX DE LA NATURE",
+            "pro-link": "shopify:\/\/collections\/randonnee"
+          }
+        },
+        "9c55bc55-8fbb-4120-836a-94f6fdf91f63": {
+          "type": "image",
+          "settings": {
+            "product-image": "shopify:\/\/shop_images\/Cadeaux-noel-pecheurs-chasseurs-gheat.jpg",
+            "product-des": "LES CHASSEURS ET PÊCHEURS",
+            "pro-link": "shopify:\/\/collections\/chasse-et-peche"
+          }
+        },
+        "2ad64526-1298-40fd-bb50-1815908d4ebb": {
+          "type": "image",
+          "settings": {
+            "product-image": "shopify:\/\/shop_images\/G-heat-Cadeau-noel-original.jpg",
+            "product-des": "VOUS !!!",
+            "pro-link": "shopify:\/\/collections\/tous-nos-produits"
+          }
+        }
+      },
+      "block_order": [
+        "1167def7-f305-4d59-9f36-328b674c372d",
+        "33beda0d-3bce-43dd-b133-ab2a8016db65",
+        "c8ceef1f-378c-4893-bbdb-2dfa1e78163c",
+        "ac015cc9-b863-4e24-935d-8c309a349f4b",
+        "c2b18dbc-2b2d-41c6-badb-775f3957c3d7",
+        "9c55bc55-8fbb-4120-836a-94f6fdf91f63",
+        "2ad64526-1298-40fd-bb50-1815908d4ebb"
+      ],
+      "settings": {
+        "main-heading": "UN CADEAU POUR...",
+        "view-all": "",
+        "view-all-url": ""
+      }
+    },
+    "ff77de2a-ccb4-4eae-9628-d271fc25c0d4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "HEY LES AVANT-GARDISTES, NE RATEZ PAS NOS NOUVEAUTÉS",
+        "home_featured_products": "nouveautes",
+        "count": 4,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "view-all-text": "Voir tout",
+        "divider": false
+      }
+    },
+    "950b3a7a-c35e-4e47-b6e9-570e543145f6": {
+      "type": "featured-content",
+      "settings": {
+        "title": "UN DOUTE ? PAS DE DOUTE, OPTEZ POUR LA CARTE-CADEAU",
+        "text": "<p>Vous n'êtes pas sûrs de sa taille, vous n'êtes sûrs du modèle mais vous voulez offrir un cadeau qui lui fera plaisir ! Optez pour une carte cadeau ! Ca fait plaisir à tous les coups !<\/p>",
+        "link": "",
+        "link_text": "",
+        "align_text": "left",
+        "narrow_column": false,
+        "enlarge_text": true,
+        "color_scheme": "1",
+        "divider": false
+      }
+    },
+    "d96ace39-d1ce-4f41-a9b3-c5da3fe33cdf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "VOUS AVEZ LE CHOIX",
+        "home_featured_products": "cartes-cadeau",
+        "count": 4,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "view-all-text": "",
+        "divider": false
+      }
+    },
+    "8a62f981-e1f9-48a8-b815-fc6ed9a1cc4e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "OFFRIR DES GANTS CHAUFFANTS",
+        "home_featured_products": "gants-chauffants",
+        "count": 4,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "view-all-text": "Voir tout",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "header",
+    "29a30920-6e67-4608-98bf-39395fb35288",
+    "main",
+    "recommendation",
+    "c07d8eb7-4901-48ce-8c52-f3f3210c6092",
+    "ff77de2a-ccb4-4eae-9628-d271fc25c0d4",
+    "950b3a7a-c35e-4e47-b6e9-570e543145f6",
+    "d96ace39-d1ce-4f41-a9b3-c5da3fe33cdf",
+    "8a62f981-e1f9-48a8-b815-fc6ed9a1cc4e"
+  ]
+}
